@@ -11,3 +11,16 @@ C:\Users\romina\source\repos\BuscaTuSonido\MPP\obj\Debug\MPP.dll
 C:\Users\romina\source\repos\BuscaTuSonido\MPP\obj\Debug\MPP.pdb
 C:\Users\romina\source\repos\BuscaTuSonido\MPP\bin\Debug\Newtonsoft.Json.dll
 C:\Users\romina\source\repos\BuscaTuSonido\MPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\A308610\Desktop\reposRommi\BuscaTuSonido2\MPP\bin\Debug\MPP.dll
+C:\Users\A308610\Desktop\reposRommi\BuscaTuSonido2\MPP\bin\Debug\MPP.pdb
+C:\Users\A308610\Desktop\reposRommi\BuscaTuSonido2\MPP\bin\Debug\BE.dll
+C:\Users\A308610\Desktop\reposRommi\BuscaTuSonido2\MPP\bin\Debug\DAL.dll
+C:\Users\A308610\Desktop\reposRommi\BuscaTuSonido2\MPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\A308610\Desktop\reposRommi\BuscaTuSonido2\MPP\bin\Debug\BE.pdb
+C:\Users\A308610\Desktop\reposRommi\BuscaTuSonido2\MPP\bin\Debug\DAL.pdb
+C:\Users\A308610\Desktop\reposRommi\BuscaTuSonido2\MPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\A308610\Desktop\reposRommi\BuscaTuSonido2\MPP\obj\Debug\MPP.csprojAssemblyReference.cache
+C:\Users\A308610\Desktop\reposRommi\BuscaTuSonido2\MPP\obj\Debug\MPP.csproj.CoreCompileInputs.cache
+C:\Users\A308610\Desktop\reposRommi\BuscaTuSonido2\MPP\obj\Debug\MPP.csproj.CopyComplete
+C:\Users\A308610\Desktop\reposRommi\BuscaTuSonido2\MPP\obj\Debug\MPP.dll
+C:\Users\A308610\Desktop\reposRommi\BuscaTuSonido2\MPP\obj\Debug\MPP.pdb

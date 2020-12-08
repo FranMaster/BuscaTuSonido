@@ -113,8 +113,10 @@
         </div>
      </div>
         <br />
+        <hr />
         <div>
-            <asp:Button runat="server" ID="btnOpinar" CssClass="btn btn-info" Text="Enviar Opinión" Width="90%" />
+            <asp:Button runat="server" ID="btnOpinar" CssClass="btn btn-info" Text="Enviar Opinión" Width="90%" 
+                />
         </div>
     
 
@@ -135,6 +137,10 @@
 
     #btnOpinar{
         text-align:center;
+    }
+    #MainContent_btnOpinar{
+        display:block;
+        margin:auto;
     }
     
 
